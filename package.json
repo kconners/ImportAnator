@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kconners/ImportAnator/issues"
   },
-  "homepage": "https://github.com/kconners/ImportAnator#readme"
+  "homepage": "https://github.com/kconners/ImportAnator#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
